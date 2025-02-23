@@ -128,7 +128,8 @@ h2 {
   border-radius: 50%;
   margin: 1rem;
   width: 100px;
-  box-shadow: 0 0 25px rgb(0, 217, 255);
+  border:1.5px solid rgb(0, 217, 255);
+  /* box-shadow: 0 0 25px rgb(0, 217, 255); */
 }
 
 /* Attribution */
