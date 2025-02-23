@@ -97,13 +97,17 @@ h2 {
   gap: 6px;
   font-weight: 700;
   color: white;
-  border-radius: 7px;
-  box-shadow: 0px 4px 2px rgba(0, 217, 255, 0.468);
+  /* border-radius: 7px; */
+  border-left: 5px solid rgba(0, 217, 255, 0.468);
+  border-right: 5px solid rgba(0, 217, 255, 0.468);
+  box-shadow: 0px 0px 7px rgba(0, 217, 255, 0.468);
   padding: 13px;
   margin: 14px;
   width: 300px;
   background: #131313;
-  transition: background 0.3s ease, box-shadow 0.3s ease;
+  transition: background 0.3s ease;
+  transition: border-radius 0.3s ease;
+  box-shadow: 0.3s ease;
 }
 
 .social-links a:hover,
@@ -111,6 +115,7 @@ h2 {
   color: black;
   background: rgb(0, 217, 255);
   box-shadow: none;
+  border-radius: 7px;
 }
 
 /* Images */
@@ -128,7 +133,7 @@ h2 {
   border-radius: 50%;
   margin: 1rem;
   width: 100px;
-  border:1.5px solid rgb(0, 217, 255);
+  border: 1.5px solid rgb(0, 217, 255);
   /* box-shadow: 0 0 25px rgb(0, 217, 255); */
 }
 
