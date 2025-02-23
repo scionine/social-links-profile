@@ -1,8 +1,6 @@
 # social-links-profile-ii
-As a challenge by Frontend Mentor, I coded a simple social links profile that is responsive to both mobile and desktop screens!
+As a challenge by Frontend Mentor, I was tasked with recreating a simple social links profile that is responsive to both mobile and desktop screens!
 
-This version for the challenge is a more personalized take on the task. You can view the original submission repo on my profile or by following the first link below:
+This version for the challenge is a more personalized take, which you can view in browser through the link below. You can also see the original submission repo on my profile.
 
-Original Submission: https://scionine.github.io/social-links-profile-i/
-
-Personalized Submission: https://scionine.github.io/social-links-profile-ii/
+View in browser: https://scionine.github.io/social-links-profile-ii/
